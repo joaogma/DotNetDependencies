@@ -1,0 +1,16 @@
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\DotNetDependencies.exe
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\DotNetDependencies.deps.json
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\DotNetDependencies.runtimeconfig.json
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\DotNetDependencies.runtimeconfig.dev.json
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\DotNetDependencies.dll
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\ref\DotNetDependencies.dll
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\bin\Debug\net5.0\DotNetDependencies.pdb
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.csproj.AssemblyReference.cache
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.AssemblyInfoInputs.cache
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.AssemblyInfo.cs
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.csproj.CoreCompileInputs.cache
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.dll
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\ref\DotNetDependencies.dll
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.pdb
+C:\Users\amejoo01\OneDrive - CSG Systems Inc\Training\C#\DotNetDependencies\obj\Debug\net5.0\DotNetDependencies.genruntimeconfig.cache
